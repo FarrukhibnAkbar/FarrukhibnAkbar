@@ -1,9 +1,15 @@
 HTML
-SCC
+
+CSS
+
 basic Javascript
-Golang
-RestApi
-Postgresql
-gRPC
+
+Golang: 
+ 
+ RestApi
+ 
+ Postgresql
+ 
+ gRPC
  
 
