@@ -1,5 +1,5 @@
 
-<a href="#"><img  width="60%" height="auto" src="https://user-images.githubusercontent.com/79736830/126167585-ae28ef65-f4aa-4209-a9de-a7bf278b784c.jpg" align="center" height="100px"/></a>
+<a href="#"><img  width="60%" height="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" align="center" height="100px"/></a>
 
 ## Hi there ✌🏻, I'm Farrukh 👋🏻
 
