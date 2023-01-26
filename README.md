@@ -30,8 +30,8 @@ Docker
 
 <br/>
 <br/>
-
-<a href="https://github.com/FarrukhibnAkbar/github-readme-activity-graph"><img alt="Farrukh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FarrukhibnAkbar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- 
+<a href="https://github.com/FarrukhibnAkbar/github-readme-activity-graph"><img alt="Farrukh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FarrukhibnAkbar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
